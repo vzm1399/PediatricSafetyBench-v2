@@ -1,0 +1,17 @@
+Model,Condition,Rate_pct,CI_lo,CI_hi
+GPT-4o-mini,S1,99.3,98.3,100.0
+GPT-4o-mini,S2,99.3,98.3,100.0
+GPT-4o-mini,S3,98.3,96.7,99.7
+GPT-4o-mini,S4,99.0,97.7,100.0
+Gemini-2.0-Flash,S1,96.0,93.7,98.0
+Gemini-2.0-Flash,S2,99.7,99.0,100.0
+Gemini-2.0-Flash,S3,97.7,95.7,99.3
+Gemini-2.0-Flash,S4,99.7,99.0,100.0
+Claude-3.5-Haiku,S1,98.3,96.7,99.7
+Claude-3.5-Haiku,S2,99.3,98.3,100.0
+Claude-3.5-Haiku,S3,98.3,96.7,99.7
+Claude-3.5-Haiku,S4,99.7,99.0,100.0
+Llama-3.1-8B,S1,81.0,76.3,85.3
+Llama-3.1-8B,S2,99.0,97.7,100.0
+Llama-3.1-8B,S3,78.3,73.3,83.0
+Llama-3.1-8B,S4,85.7,81.7,89.7
