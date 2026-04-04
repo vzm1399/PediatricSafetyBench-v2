@@ -64,13 +64,7 @@ from PediatricSafetyBench_v2_complete import *
 ## Citation
 
 ```bibtex
-@article{pediatricsafetybench2025,
-  title   = {Safety boundary maintenance in consumer AI systems responding
-             to paediatric health queries},
-  journal = {npj Digital Medicine},
-  year    = {2025},
-  note    = {Under revision}
-}
+(https://arxiv.org/abs/2601.09721)
 ```
 
 ## License
