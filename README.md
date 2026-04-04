@@ -2,10 +2,10 @@
 
 Benchmark dataset and evaluation pipeline for:
 
-> **Safety boundary maintenance in consumer artificial intelligence systems
-> responding to paediatric health queries: a systematic benchmark evaluation
-> under naturalistic and adversarially pressured conditions**
-> *npj Digital Medicine* (under revision)
+>Zolfaghari V, Mashhadi L, Ahadi M, Sedaghatkar F, Kargozari MR.
+> Safety boundary maintenance in consumer AI systems responding to paediatric health queries: a cross-platform benchmark evaluation under naturalistic and adversarially pressured conditions.
+> npj Digital Medicine (under revision, 2026)
+> Preprint: https://arxiv.org/abs/2601.09721
 
 ---
 
