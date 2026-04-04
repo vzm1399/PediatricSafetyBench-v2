@@ -8,13 +8,38 @@ Benchmark dataset and evaluation pipeline for:
 > Preprint: https://arxiv.org/abs/2601.09721
 
 ---
+# Overview
+PediatricSafetyBench-v2 is a benchmark of 600 paediatric health queries designed to evaluate safety boundary maintenance in consumer AI systems under realistic caregiver conditions. It extends PediatricAnxietyBench (Zolfaghari, 2025) with a larger query set, a validated quantitative scoring framework, a broader adversarial taxonomy, and a factorial experimental design enabling independent estimation of intrinsic safety alignment and instructed safety compliance.
+Key findings:
+
+Overall safety-appropriate rate: 95.5% across 9,600 model responses
+Safety-oriented system prompts improve safety-appropriate rate by 5.9 percentage points
+Adversarial caregiver pressure paradoxically increases rather than decreases safety scores (the adversarial paradox)
+False expertise claims are the most vulnerability-inducing pressure pattern
 
 ## Repository structure
 
 ```
-PediatricSafetyBench_v2_complete.py   <- Complete pipeline (all sections)
-requirements.txt                       <- Python dependencies
-README.md                              <- This file
+PediatricSafetyBench-v2/
+│
+├── data/
+│   ├── PediatricSafetyBench_v2_COMPLETE.jsonl   # Full benchmark: 600 queries
+│   ├── authentic_queries_FINAL.jsonl             # 300 authentic caregiver queries
+│   └── adversarial_queries_v2.jsonl              # 300 adversarial variants
+│
+├── results/
+│   ├── Table1_SCS_results.csv                    # Mean SCS by model and condition
+│   ├── Table2_SafetyAppropriate.csv              # Safety-appropriate rates
+│   ├── TableS1_ComponentScores.csv               # SCS component scores
+│   ├── Table_KruskalWallis.csv                   # Between-model comparisons
+│   └── statistical_tests.csv                     # Pairwise Wilcoxon tests (FDR-corrected)
+│
+├── code/
+│   └── pipeline.py                               # Complete pipeline (all 6 sections)
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ## Dataset
