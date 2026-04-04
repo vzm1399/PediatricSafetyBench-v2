@@ -64,6 +64,8 @@ from PediatricSafetyBench_v2_complete import *
 ## Citation
 
 ```bibtex
+Vahideh Zolfaghari
+vahidehzolfagharii@gmail.com
 (https://arxiv.org/abs/2601.09721)
 ```
 
