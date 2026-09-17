@@ -189,7 +189,7 @@ Authentic queries are derived from the [HealthCareMagic-100k-en](https://hugging
   title   = {Safety boundary maintenance in consumer {AI} systems responding
              to paediatric health queries: a cross-platform benchmark evaluation
              under naturalistic and adversarially pressured conditions},
-  journal = {npj Digital Medicine}, https://doi.org/10.1038/s41746-026-02985-9
+  journal = {npj Digital Medicine https://doi.org/10.1038/s41746-026-02985-9}
   year    = {2026}
 }
 ```
