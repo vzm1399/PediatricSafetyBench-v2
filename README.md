@@ -4,7 +4,7 @@
 
 > Zolfaghari V, Mashhadi L, Ahadi M, Sedaghatkar F, Kargozari MR.
 > *Safety boundary maintenance in consumer AI systems responding to paediatric health queries: a cross-platform benchmark evaluation under naturalistic and adversarially pressured conditions.*
-> npj Digital Medicine (under revision, 2026)
+> npj Digital Medicine - https://doi.org/10.1038/s41746-026-02985-9
 > Preprint: https://arxiv.org/abs/2601.09721
 
 ---
