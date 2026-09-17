@@ -183,14 +183,7 @@ Authentic queries are derived from the [HealthCareMagic-100k-en](https://hugging
 ## Citation
 
 ```bibtex
-@article{zolfaghari2026pediatric,
-  author  = {Zolfaghari, Vahideh and Mashhadi, Leila and Ahadi, Mitra
-             and Sedaghatkar, Farzaneh and Kargozari, MohammadReza},
-  title   = {Safety boundary maintenance in consumer {AI} systems responding
-             to paediatric health queries: a cross-platform benchmark evaluation
-             under naturalistic and adversarially pressured conditions},
-  journal = {npj Digital Medicine https://doi.org/10.1038/s41746-026-02985-9}
-  year    = {2026}
+@article{Zolfaghari, V., Mashhadi, L., Ahadi, M. et al. Safety boundary maintenance in consumer AI systems responding to pediatric health queries: a cross-platform benchmark evaluation under naturalistic and adversarially pressured conditions. npj Digit. Med. (2026). https://doi.org/10.1038/s41746-026-02985-9
 }
 ```
 
